@@ -1,3 +1,6 @@
 # KnarikHovhannisyanRepo
+
 ## My first PR
-Conflict
+
+Change
+
